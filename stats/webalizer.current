@@ -1,0 +1,600 @@
+# Webalizer V2.01-10 Incremental Data - 01/21/2013 23:35:04
+2013 1 21 23 35 4
+721 627 52 77 8 31 9133861 59 40 0 0 0
+32 1 137 5 21
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+24 11 18901 2 11 2 0 0
+0 0 0 0 0 0 0 0
+10 7 16008 3 3 3 0 0
+5 1 609 2 2 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+143 132 4426582 2 3 2 0 0
+51 50 438798 4 3 3 0 0
+95 95 825918 5 2 2 0 0
+59 57 586590 5 5 3 0 0
+1 1 19231 1 1 1 0 0
+333 273 2801224 32 29 22 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+51 51 369192 2 0 0
+0 0 0 0 0 0
+1 1 66479 0 0 0
+1 1 63183 0 0 0
+7 5 80560 4 0 0
+2 2 30449 1 0 0
+4 4 33530 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 15093 0 0 0
+0 0 0 0 0 0
+60 60 421960 1 0 0
+5 5 14790 1 0 0
+145 134 4413376 4 0 0
+0 0 0 0 0 0
+1 1 730 0 0 0
+1 1 19231 1 0 0
+6 5 42521 2 0 0
+110 83 671650 9 0 0
+3 3 80880 1 0 0
+41 30 541571 1 0 0
+169 138 1391758 20 0 0
+55 51 424032 6 0 0
+57 50 452876 5 0 0
+0
+0
+0
+627
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+89
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 59 0 375731 40 2 0 0
+/images/prettyPhoto/light_rounded/btnNext.png
+1 2 0 2822 0 0 0 0
+/css/nivo-slider.css
+0 11 0 10800 0 0 0 0
+/js/jquery.form.js
+0 9 0 54565 0 0 0 0
+/twitter.png
+1 6 0 4608 0 0 0 0
+/images/bg.png
+1 12 0 24010 0 0 0 0
+/images/prettyPhoto/default/sprite_y.png
+1 2 0 2324 0 0 0 0
+/images/slider-img-3.jpg
+1 37 0 2218500 0 0 0 0
+/css/jquery.jscrollpane.css
+0 11 0 6829 0 0 0 0
+/js/libs/modernizr-2.0.6.min.js
+0 9 0 46410 0 0 0 0
+/images/prettyPhoto/default/loader.gif
+1 2 0 12662 0 0 0 0
+/images/prettyPhoto/default/sprite_x.png
+1 2 0 2194 0 0 0 0
+/js/custom.js
+0 9 0 9927 0 0 0 0
+/js/jquery.prettyPhoto.js
+0 9 0 45227 0 0 0 0
+/images/slider-img-2.jpg
+1 36 0 1832307 0 0 0 0
+/images/js.jpg
+1 14 0 574144 0 0 0 0
+/images/loading.gif
+1 9 0 13896 0 0 0 0
+/images/twitter.png
+1 11 0 12710 0 0 0 0
+/images/close-crimson.png
+1 12 0 8760 0 0 0 0
+/./images/slider-img-3.jpg
+1 1 0 61625 0 0 0 0
+/images/bg-section.png
+1 8 0 726 0 0 0 0
+/images/slider-img-1.jpg
+1 36 0 2060849 0 0 0 0
+/images/tweets.png
+1 11 0 4950 0 0 0 0
+/images/skills.png
+1 4 0 1132 0 0 0 0
+/css/fonts/QlassikBold_TB-webfont.ttf
+0 1 0 35804 0 0 0 0
+/./images/slider-img-2.jpg
+1 1 0 63183 0 0 0 0
+/images/img-249-150.jpg
+1 13 0 114948 0 0 0 0
+/css/fonts.css
+0 11 0 3938 0 0 0 0
+/css/fonts/YanoneKaffeesatz-Light-webfont.ttf
+0 1 0 28888 0 0 0 0
+/images/a-olive.png
+1 11 0 39457 0 0 0 0
+/images/a-crimson.png
+1 11 0 35520 0 0 0 0
+/./images/close-olive.png
+1 1 0 747 0 0 0 0
+/images/img-249-150-v.jpg
+1 13 0 57684 0 0 0 0
+/./images/slider-img-1.jpg
+1 1 0 66479 0 0 0 0
+/images/vimeo.png
+1 11 0 17230 0 0 0 0
+/js/jquery.ufvalidator-1.0.5.js
+0 9 0 15080 0 0 0 0
+/./images/close-blue.png
+1 1 0 745 0 0 0 0
+/js/jquery.easing.1.3.js
+0 9 0 15928 0 0 0 0
+/images/close-olive.png
+1 12 0 8964 0 0 0 0
+/css/style.css
+0 11 0 26579 0 0 0 0
+/images/arrows.png
+1 2 0 1202 0 0 0 0
+/js/jQueryRotate.2.1.js
+0 9 0 26632 0 0 0 0
+/robots.txt
+0 11 0 384 0 0 0 0
+/css/reset.css
+0 11 0 12787 0 0 0 0
+/js/jquery.nivo.slider.pack.js
+0 9 0 24128 0 0 0 0
+/images/vcard.png
+1 3 0 4726 0 0 0 0
+/favicon.ico
+0 10 0 73580 0 0 0 0
+/images/tr-png.png
+1 3 0 363 0 0 0 0
+/images/img-249-150-2.jpg
+1 13 0 145834 0 0 0 0
+/images/google.png
+1 11 0 22770 0 0 0 0
+/./images/close-crimson.png
+1 1 0 730 0 0 0 0
+/images/footer-bg.png
+1 11 0 13550 0 0 0 0
+/style.css
+0 12 0 4995 0 0 0 0
+/images/a-orange.png
+1 11 0 35510 0 0 0 0
+/./images/js.jpg
+1 1 0 65777 0 0 0 0
+/js/jquery.mousewheel.js
+0 9 0 6363 0 0 0 0
+/js/jquery.tipsy.js
+0 9 0 8778 0 0 0 0
+/images/flickr.png
+1 11 0 13570 0 0 0 0
+/css/fonts/YanoneKaffeesatz-Light-webfont.woff
+0 9 0 152320 0 0 0 0
+/images/dribbble.png
+1 11 0 20510 0 0 0 0
+/images/prettyPhoto/default/sprite.png
+1 2 0 13364 0 0 0 0
+/./images/img-249-150-v.jpg
+1 1 0 4807 0 0 0 0
+/images/a-blue.png
+1 11 0 39446 0 0 0 0
+/images/big-image-ex.jpg
+1 4 0 117696 0 0 0 0
+/js/jquery.jscrollpane.js
+0 9 0 71932 0 0 0 0
+/images/close-blue.png
+1 12 0 7450 0 0 0 0
+/images/hover-circle.png
+1 12 0 50688 0 0 0 0
+/images/close-orange.png
+1 12 0 7380 0 0 0 0
+/css/fonts/QlassikBold_TB-webfont.woff
+0 9 0 195616 0 0 0 0
+/images/divider.png
+1 7 0 774 0 0 0 0
+/images/bg-close.png
+1 7 0 1477 0 0 0 0
+/./images/img-249-150-2.jpg
+1 1 0 11218 0 0 0 0
+/images/check.png
+1 4 0 942 0 0 0 0
+/bg.jpg
+1 6 0 10866 0 0 0 0
+/css/prettyPhoto.css
+0 11 0 39054 0 0 0 0
+/./images/close-orange.png
+1 1 0 738 0 0 0 0
+/images/tipsy.gif
+1 3 0 2601 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+50.19.184.46
+0 1 1 65777 0 0
+- 0 0
+46.137.37.234
+0 1 1 19231 1 1358807715
+/ 0 0
+176.34.78.244
+0 2 2 4018 1 1358807701
+/ 0 0
+199.59.149.169
+0 2 2 4062 1 1358804739
+/ 0 0
+23.20.246.212
+0 2 2 128104 0 0
+- 0 0
+93.184.35.39
+0 4 4 65051 1 1358804782
+/ 0 0
+36.73.41.179
+0 42 42 230803 1 1358769162
+/ 0 0
+107.22.177.36
+0 1 1 0 1 1358804941
+/ 0 0
+198.27.80.99
+0 45 45 424480 1 1358804806
+/ 0 0
+174.129.228.67
+0 2 2 19255 1 1358796383
+/ 0 0
+206.53.152.170
+0 5 5 14790 1 1357565919
+- 0 0
+206.53.152.173
+0 1 1 609 1 1357565926
+- 0 0
+202.152.204.186
+0 18 9 17683 1 1357410237
+- 0 0
+202.152.202.102
+0 48 48 364412 1 1358554348
+- 0 0
+46.236.7.249
+0 1 1 19231 1 1358807021
+/ 0 0
+78.158.11.226
+0 3 2 40268 1 1358569414
+- 0 0
+174.129.86.141
+0 1 1 747 0 0
+- 0 0
+78.46.145.199
+0 1 1 19231 1 1358352051
+- 0 0
+107.21.132.191
+0 1 1 745 0 0
+- 0 0
+109.172.77.26
+0 1 1 19231 1 1358718978
+- 0 0
+184.72.91.178
+0 2 2 4062 1 1358805403
+/ 0 0
+50.18.21.225
+0 3 3 0 1 1358804739
+/ 0 0
+202.152.194.166
+0 4 0 0 1 1357685294
+- 0 0
+85.214.85.62
+0 1 1 0 1 1358804771
+/ 0 0
+184.72.131.182
+0 1 1 4018 1 1358805403
+/ 0 0
+117.102.113.10
+0 47 47 371430 1 1358792668
+/ 0 0
+202.152.194.182
+0 6 2 1218 1 1357429175
+- 0 0
+74.112.131.110
+0 3 3 23293 1 1358804746
+/ 0 0
+74.112.131.111
+0 1 1 24 0 0
+- 0 0
+74.112.131.112
+0 1 1 24 0 0
+- 0 0
+139.192.213.88
+0 46 46 371973 1 1358547631
+- 0 0
+50.16.75.67
+0 1 1 0 1 1358804773
+/ 0 0
+66.249.77.92
+0 15 15 231375 1 1358443484
+- 0 0
+180.243.149.163
+0 282 213 5525799 4 1358802824
+/ 0 0
+23.20.164.94
+0 1 1 4807 0 0
+- 0 0
+107.20.37.147
+0 1 1 63183 0 0
+- 0 0
+107.22.18.158
+0 2 2 19231 1 1358804749
+/ 0 0
+75.101.206.200
+0 1 1 738 0 0
+- 0 0
+184.73.79.54
+0 1 1 11218 0 0
+- 0 0
+50.16.68.134
+0 1 1 730 0 0
+- 0 0
+157.55.35.37
+0 2 2 4042 1 1358726747
+/ 0 0
+121.100.16.10
+0 17 17 190410 0 0
+- 0 0
+206.53.148.144
+0 11 11 93960 0 0
+- 0 0
+206.53.148.146
+0 27 27 234119 1 1358546295
+- 0 0
+206.53.148.147
+0 1 1 3072 0 0
+- 0 0
+202.152.204.99
+0 4 1 609 1 1357603169
+- 0 0
+50.97.97.23
+0 1 1 19231 1 1358401504
+- 0 0
+66.249.74.139
+0 3 2 67332 0 0
+- 0 0
+110.75.172.105
+0 1 1 609 1 1357651417
+- 0 0
+67.217.45.249
+0 46 46 385272 1 1358464657
+- 0 0
+69.58.178.59
+0 4 3 40292 1 1358571215
+- 0 0
+66.249.73.121
+0 2 2 4062 1 1358751183
+/ 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+50.19.184.46
+0 1 1 65777 0 0
+- 0 0
+46.137.37.234
+0 1 1 19231 1 1358807715
+/ 0 0
+176.34.78.244
+0 2 2 4018 1 1358807701
+/ 0 0
+199.59.149.169
+0 2 2 4062 1 1358804739
+/ 0 0
+23.20.246.212
+0 2 2 128104 0 0
+- 0 0
+93.184.35.39
+0 4 4 65051 1 1358804782
+/ 0 0
+36.73.41.179
+0 42 42 230803 1 1358769162
+/ 0 0
+107.22.177.36
+0 1 1 0 1 1358804941
+/ 0 0
+198.27.80.99
+0 45 45 424480 1 1358804806
+/ 0 0
+174.129.228.67
+0 2 2 19255 1 1358796383
+/ 0 0
+46.236.7.249
+0 1 1 19231 1 1358807021
+/ 0 0
+174.129.86.141
+0 1 1 747 0 0
+- 0 0
+107.21.132.191
+0 1 1 745 0 0
+- 0 0
+184.72.91.178
+0 2 2 4062 1 1358805403
+/ 0 0
+50.18.21.225
+0 3 3 0 1 1358804739
+/ 0 0
+85.214.85.62
+0 1 1 0 1 1358804771
+/ 0 0
+184.72.131.182
+0 1 1 4018 1 1358805403
+/ 0 0
+117.102.113.10
+0 47 47 371430 1 1358792668
+/ 0 0
+74.112.131.110
+0 3 3 23293 1 1358804746
+/ 0 0
+74.112.131.111
+0 1 1 24 0 0
+- 0 0
+74.112.131.112
+0 1 1 24 0 0
+- 0 0
+50.16.75.67
+0 1 1 0 1 1358804773
+/ 0 0
+180.243.149.163
+0 140 82 1118448 3 1358802824
+/ 0 0
+23.20.164.94
+0 1 1 4807 0 0
+- 0 0
+107.20.37.147
+0 1 1 63183 0 0
+- 0 0
+107.22.18.158
+0 2 2 19231 1 1358804749
+/ 0 0
+75.101.206.200
+0 1 1 738 0 0
+- 0 0
+184.73.79.54
+0 1 1 11218 0 0
+- 0 0
+50.16.68.134
+0 1 1 730 0 0
+- 0 0
+157.55.35.37
+0 2 2 4042 1 1358726747
+/ 0 0
+121.100.16.10
+0 17 17 190410 0 0
+- 0 0
+66.249.73.121
+0 2 2 4062 1 1358751183
+/ 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 87
+http://joefebrian.com/
+1 551
+http://www.google.com/url
+0 1
+http://t.co/fwEYY22P
+0 3
+http://evuln.com/tools/malware-scanner/joefebrian.com/
+1 1
+http://joefebrian.com/css/fonts.css
+1 4
+http://joefebrian.com/css/style.css
+1 29
+http://www.joefebrian.com/
+1 45
+# End Of Table - referrers
+# -agents- 
+Python-urllib/2.7
+0 1
+Yahoo! Slurp China
+0 1
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+0 2
+Googlebot-Image/1.0
+0 14
+Java/1.6.0_12
+0 2
+UnwindFetchor/1.0 (+http://www.gnip.com/)
+0 3
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Qt/4.7.4 Safari/534.3
+0 46
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (compatible; TweetmemeBot/3.0; +http://tweetmeme.com/)
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.52 Safari/537.17
+0 330
+Twitmunin Crawler http://www.twitmunin.com
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 3
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+0 32
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.52 Safari/537.17
+0 47
+Pearltrees
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:10.0) Gecko/20100101 Firefox/10.0
+0 1
+Mozilla/5.0 (compatible; Butterfly/1.0; +http://labs.topsy.com/butterfly/) Gecko/2009032608 Firefox/3.0.8
+0 5
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.1; +http://flip
+0 3
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1 AlexaToolbar/alxf-2.17
+0 46
+BlackBerry8520/5.0.0.1067 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/600
+0 39
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.52 Safari/537.17
+0 59
+Lynx/2.8.5rel.1 libwww-FM/2.15FC SSL-MM/1.4.1c OpenSSL/0.9.7e-dev
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 2
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9860; en-GB) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.0.0.579 Mobile Safari/5
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+0 45
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/0.0.5; +http://fl
+0 10
+Kimengi/nineconnections.com
+0 2
+MetaURI API/2.0 +metauri.com
+0 2
+Twitterbot/1.0
+0 2
+# End Of Table - agents
+# -search strings- 
+joefebrian.com
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
